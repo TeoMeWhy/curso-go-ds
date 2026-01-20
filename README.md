@@ -12,7 +12,11 @@ Aulas ao vivo e gravações disponíveis no [YouTube](youtube.com/@teomewhy)
 
 ## Conteúdo
 
-Confira a apresentação com o conteúdo, exemplo de código e exercícios [aqui](https://docs.google.com/presentation/d/1A853kcKhvdhTrXK72xlufd5-wSVjg743HO0T1cuuvuc/edit?usp=sharing).
+Segue abaixo os tópicos que iremos desbravar ao longo do curso.
+
+> [!TIP]
+> Confira a apresentação completa do conteúdo, exemplo de código e exercícios [aqui](https://docs.google.com/presentation/d/1A853kcKhvdhTrXK72xlufd5-wSVjg743HO0T1cuuvuc/edit?usp=sharing).
+
 
 #### Introdução ao Go
 - Introdução à programação e ao Go
