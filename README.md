@@ -6,6 +6,10 @@ Curso introdutório da linguagem Go. Conhecendo a sintaxe e características da 
 
 Aulas ao vivo e gravações disponíveis no [YouTube](youtube.com/@teomewhy)
 
+> [!TIP]
+> Playlist de vídeos [aqui](https://www.youtube.com/playlist?list=PLvlkVRRKOYFSV2F2JT2Ijd5_B461pl5yE)
+
+
 ## Conteúdo
 
 Confira a apresentação com o conteúdo, exemplo de código e exercícios [aqui](https://docs.google.com/presentation/d/1A853kcKhvdhTrXK72xlufd5-wSVjg743HO0T1cuuvuc/edit?usp=sharing).
