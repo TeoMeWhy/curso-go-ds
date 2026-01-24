@@ -23,6 +23,7 @@ func main() {
 		nota, err := strconv.ParseFloat(inputTxt, 64)
 		if err != nil {
 			fmt.Println("Entre com uma nota válida!")
+			continue // para solicitar nova entrada!
 		}
 
 		notas = append(notas, nota)
