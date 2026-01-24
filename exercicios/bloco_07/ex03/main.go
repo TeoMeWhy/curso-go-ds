@@ -16,6 +16,11 @@ func soma(values ...float64) (res float64) {
 }
 
 func media(values ...float64) float64 {
+
+	if len(values) == 0 {
+		return 0.0
+	}
+
 	return soma(values...) / float64(len(values))
 }
 
