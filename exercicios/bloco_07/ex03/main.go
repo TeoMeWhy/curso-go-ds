@@ -50,5 +50,5 @@ func getValores() []float64 {
 func main() {
 	valores := getValores()
 	mediaValor := media(valores...)
-	fmt.Printf("Média: %.2f", mediaValor)
+	fmt.Printf("Média: %.2f\n", mediaValor)
 }
