@@ -50,7 +50,7 @@ func main() {
 		total += valor
 	}
 
-	fmt.Printf("Escolha o sabor [morango/creme/chotolate]: ")
+	fmt.Printf("Escolha o sabor [morango/creme/chocolate]: ")
 	fmt.Scanf("%s", &sabor)
 
 	if valor, ok := items["sabores"][sabor]; !ok {

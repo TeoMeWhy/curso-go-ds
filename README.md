@@ -17,6 +17,9 @@ Segue abaixo os tópicos que iremos desbravar ao longo do curso.
 > [!TIP]
 > Confira a apresentação completa do conteúdo, exemplo de código e exercícios [aqui](https://docs.google.com/presentation/d/1A853kcKhvdhTrXK72xlufd5-wSVjg743HO0T1cuuvuc/edit?usp=sharing).
 
+> [!WARNING]
+> Se atente à versão do Go que usamos ao longo do curso: go1.22.2 linux/amd64
+
 
 #### [Introdução ao Go](01_intro/)
 - Introdução à programação e ao Go
