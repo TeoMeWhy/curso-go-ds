@@ -18,34 +18,50 @@ Segue abaixo os tópicos que iremos desbravar ao longo do curso.
 > Confira a apresentação completa do conteúdo, exemplo de código e exercícios [aqui](https://docs.google.com/presentation/d/1A853kcKhvdhTrXK72xlufd5-wSVjg743HO0T1cuuvuc/edit?usp=sharing).
 
 
-#### Introdução ao Go
+#### [Introdução ao Go](01_intro/)
 - Introdução à programação e ao Go
 - Configurando o ambiente de desenvolvimento
 - Olá mundo!
 
-#### Tipos básicos de dados
-- Numéricos 
+#### [Tipos básicos de dados](02_tipos/)
+- Numéricos
 - Strings
 - Booleanos
 
-#### Variáveis
+#### [Variáveis](03_variaveis/)
 - Como armazenar resultados e entradas do usuário
 
-#### Estruturas de Controle
-- Estruturas condicionais (if, else, switch)
-- Estruturas de repetição
+#### [Condicionais: if/else](04_if_else/)
+- Estrutura if
+- Estrutura else
+- Combinando if/else
 
-#### Arrays, Fatias
-- Criação
-- Acesso
-- Modificação
+#### [Condicionais: switch](05_switch/)
+- Estrutura switch/case
+- Quando usar switch ao invés de if/else
 
-#### Mapas
-- Criação
-- Acesso
-- Modificação
+#### [Loops: for](06_for/)
+- Loop for tradicional
+- Loop for como while
+- Iterando sobre coleções com range
 
-#### Funções
+#### [Arrays](07_arrays/)
+- Criação e inicialização
+- Acesso por índice
+- Modificação de elementos
+
+#### [Fatias (Slices)](08_fatias/)
+- Criação e inicialização
+- Diferença entre arrays e slices
+- Append e manipulação
+- Trabalhando com notas (exemplo prático)
+
+#### [Mapas](09_maps/)
+- Criação e declaração
+- Acesso a valores
+- Modificação e deleção
+
+#### [Funções](10_funcoes/)
 - Definindo funções em Go
 - Parâmetros e argumentos
 - Retorno de valores
@@ -63,3 +79,16 @@ Segue abaixo os tópicos que iremos desbravar ao longo do curso.
 #### Concorrência
 - Goroutines
 - Canais
+
+## [Exercícios](exercicios/)
+
+Pratique o que aprendeu com os exercícios organizados por bloco:
+
+| Bloco | Tópicos |
+|-------|---------|
+| [Bloco 02](exercicios/bloco_02/) | Variáveis e entrada de dados |
+| [Bloco 03](exercicios/bloco_03/) | Condicionais (if/else) |
+| [Bloco 04](exercicios/bloco_04/) | Arrays e loops |
+| [Bloco 05](exercicios/bloco_05/) | Fatias (slices) |
+| [Bloco 06](exercicios/bloco_06/) | Funções |
+| [Bloco 07](exercicios/bloco_07/) | Funções variádicas e recursão |
