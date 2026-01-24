@@ -2,6 +2,23 @@
 
 Curso introdutório da linguagem Go. Conhecendo a sintaxe e características da linguagem com um Cientista de Dados.
 
+
+
+- [Onde?](#onde)
+- [Conteúdo](#conteúdo)
+    - [Introdução](#introdução-ao-go)
+    - [Tipos básicos de dados](#tipos-básicos-de-dados)
+    - [Variáveis](#variáveis)
+    - [Condicionais: if/else](#condicionais-ifelse)
+    - [Condicionais: switch](#condicionais-switch)
+    - [Loops: for](#loops-for)
+    - [Arrays](#arrays)
+    - [Fatias (Slices)](#fatias-slices)
+    - [Mapas](#mapas)
+    - [Funções](#funções)
+- [Agradecimentos](#agradecimentos)
+
+
 ## Onde?
 
 Aulas ao vivo e gravações disponíveis no [YouTube](youtube.com/@teomewhy)
@@ -95,3 +112,9 @@ Pratique o que aprendeu com os exercícios organizados por bloco:
 | [Bloco 05](exercicios/bloco_05/) | Fatias (slices) |
 | [Bloco 06](exercicios/bloco_06/) | Funções |
 | [Bloco 07](exercicios/bloco_07/) | Funções variádicas e recursão |
+
+## Agradecimentos
+
+Mutio obrigado à todas pessoas que apoiam o nosso projeto de educação na internet. Juntos estamos conseguindo impactar a vida de milhares de pessoas. Muitos destes, não teriam condições de aprender sobre dados e tecnologia, e hoje, graças ao apoio e incentivo de vocês, consigo alcançar mais e mais pessoas.
+
+Agradecimento especial ao [Alex Rios](https://www.linkedin.com/in/the-alex-rios/) ([@alexrios](https://github.com/alexrios)) pela revisão e melhorias de nosso material.
